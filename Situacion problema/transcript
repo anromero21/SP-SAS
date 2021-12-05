@@ -1,0 +1,45 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# Loading project Situacion problema
+# Compile of sp.vhd failed with 37 errors.
+# Compile of sp_tb.vhd failed with 1 errors.
+# Compile of LCD.vhd was successful.
+# 3 compiles, 2 failed with 38 errors.
+# Compile of sp.vhd failed with 17 errors.
+# Compile of sp_tb.vhd failed with 1 errors.
+# Compile of LCD.vhd was successful.
+# 3 compiles, 2 failed with 18 errors.
+# Compile of sp.vhd failed with 5 errors.
+# Compile of sp_tb.vhd failed with 1 errors.
+# Compile of LCD.vhd was successful.
+# 3 compiles, 2 failed with 6 errors.
+# Compile of sp.vhd was successful.
+# Compile of sp_tb.vhd failed with 1 errors.
+# Compile of LCD.vhd was successful.
+# 3 compiles, 1 failed with 1 error.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd failed with 3 errors.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of sp.vhd was successful.
+# Compile of LCD.vhd was successful.
+# 2 compiles, 0 failed with no errors.
